@@ -8,6 +8,13 @@
 
 ### 미션 기록
 
+| 미션                        | 레포지토리                                                                                    | PR & Reviews                                                                |
+| --------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 숫자 야구                   | [java-baseball-precourse](https://github.com/woowacourse/java-baseball-precourse)             | [PR-423](https://github.com/woowacourse/java-baseball-precourse/pull/423)   |
+| 자동차 경주                 | [java-racingcar-precourse](https://github.com/woowacourse/java-racingcar-precourse)           | [PR-348](https://github.com/woowacourse/java-racingcar-precourse/pull/348)  |
+| 자판기                      | [java-vendingmachine-precourse](https://github.com/woowacourse/java-vendingmachine-precourse) | [PR-5](https://github.com/woowacourse/java-vendingmachine-precourse/pull/5) |
+| 페어 매칭 (최종 코딩테스트) | [java-pairmatching-precourse](https://github.com/woowacourse/java-pairmatching-precourse)     | [PR-26](https://github.com/woowacourse/java-pairmatching-precourse/pull/26) |
+
 ## 🌱 레벨1 - TDD, OOP, FP, Web/DB 기초
 
 > 2022.02.09 ~ 2022.04.07
@@ -76,9 +83,17 @@ https://github.com/woowacourse-teams/2022-dallog
 | 레벨2 | 우테코에서 찾은 나만의 효과적인 공부법 | [PR-149](https://github.com/woowacourse/woowa-writing-4/pull/149) |
 | 레벨3 | 팀 프로젝트가 나에게 남긴 것           | [PR-243](https://github.com/woowacourse/woowa-writing-4/pull/243) |
 
+## 발표
+
+### 테코톡
+
+[![](https://user-images.githubusercontent.com/11745691/186069220-7cdf1785-7751-4a22-976f-5aade878a6c3.png)](https://youtu.be/BotXDfBPvDA?t=592)
+
+[[10분 테코톡] 토닉, 후디의 인증과 인가 - 부족사회부터 소셜로그인까지](https://youtu.be/BotXDfBPvDA?t=592)
+
 ## 블로깅
 
-> 우아한테크코스 시작 이후 2022년 8월 20일 기준으로 총 **80개**의 포스트를 작성하였습니다. 평균적으로 **2.41일마다 하나의 포스팅**을 꾸준히 작성했습니다.
+> 우아한테크코스 시작(2022.02.09) 이후 2022년 8월 20일 기준으로 총 **84개**의 포스트를 작성하였습니다. 평균적으로 **2.33일마다 하나의 포스팅**을 꾸준히 작성했습니다.
 
 | 순번 | 포스트                                                                                                                                                    | 태그                                             |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -162,3 +177,7 @@ https://github.com/woowacourse-teams/2022-dallog
 | 78   | [정적 분석(Static Analysis)이란?](https://hudi.blog/static-analysis/)                                                                                     | `데브옵스`, `정적분석`                           |
 | 79   | [코드 커버리지(Code Coverage)란?](https://hudi.blog/code-coverage/)                                                                                       | `데브옵스`, `코드커버리지`                       |
 | 80   | [달록의 Jacoco 적용기 (feat. Gradle)](https://hudi.blog/dallog-jacoco/)                                                                                   | `데브옵스`, `코드커버리지`, `jacoco`             |
+| 81   | [🖋 팀 프로젝트가 나에게 남긴 것](https://hudi.blog/what-the-woowacourse-team-project-left-me/)                                                            | `회고`, `글쓰기미션`                             |
+| 82   | [제 5장. HTTP와 연계하는 웹 서버](https://hudi.blog/http-and-network-basic-5/)                                                                            | `HTTP`, `책읽기`                                 |
+| 83   | [분리 인터페이스(Separated Interface) 패턴을 사용하여 시스템간 결합을 느슨하게 설계하기](https://hudi.blog/separated-interface-pattern/)                  | `디자인패턴`, `DDD`, `달록`                      |
+| 84   | [Spring REST Docs를 사용한 API 문서 자동화](https://hudi.blog/spring-rest-docs/)                                                                          | `spring`, `rest-docs`, `달록`                    |
