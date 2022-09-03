@@ -75,6 +75,19 @@
 
 https://github.com/woowacourse-teams/2022-dallog
 
+### 달록팀 기술블로그
+
+https://dallog.github.io/
+
+### 데모데이 발표
+
+| 차수 | 영상                                        | 발표자      |
+| ---- | ------------------------------------------- | ----------- |
+| 1차  | https://www.youtube.com/watch?v=CpEPET2jXO4 | 파랑 & 나인 |
+| 2차  | https://www.youtube.com/watch?v=ngafnm7K7O0 | 매트 & 티거 |
+| 3차  | https://www.youtube.com/watch?v=sP1F-wWO0sY | 리버 & 나인 |
+| 4차  | -                                           | 후디        |
+
 ## 🖋 글쓰기 미션
 
 | 레벨  | 주제                                   | PR & Reviews                                                      |
