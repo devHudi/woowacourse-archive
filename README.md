@@ -39,6 +39,12 @@
 | 체스 Step 1, 2, 3  | [java-chess](https://github.com/woowacourse/java-chess)         | [PR-293](https://github.com/woowacourse/java-chess/pull/293)     |
 | 체스 Step 4, 5     | [java-chess](https://github.com/woowacourse/java-chess)         | [PR-419](https://github.com/woowacourse/java-chess/pull/419)     |
 
+### 스터디 - 데일리 이펙티브 자바 스터디
+
+https://github.com/woowacourse-study/2022-daily-effective-java
+
+- 등교하는 매일 17:50시에 매일 3명씩 돌아가며 이펙티브 자바의 아이템을 하나씩 아주 짧게 발표하는 스터디
+
 ## 🌿 레벨2 - 스프링, ATDD, 클라우드, 배포, 협업
 
 > 2022.04.19 ~ 2022.06.10
@@ -62,6 +68,13 @@
 | Spring 지하철 경로조회 Step 2  | [atdd-subway-path](https://github.com/woowacourse/atdd-subway-path)   | [PR-300](https://github.com/woowacourse/atdd-subway-path/pull/300)  |
 | Spring 장바구니 Step 1         | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [PR-34](https://github.com/woowacourse/jwp-shopping-cart/pull/34)   |
 | Spring 장바구니 Step 2         | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [PR-130](https://github.com/woowacourse/jwp-shopping-cart/pull/130) |
+
+### 스터디 - 우아한 WIL (Weekly, I Learned)
+
+https://github.com/woowacourse-study/2022-woowahan-wil
+
+- 꾸준하고, 지속가능한 학습을 위해 매주 월요일 오전 10시에 각자 일주일간 학습한 내용을 발표하는 스터디
+- 스터디장으로 참여
 
 ## 🪴 레벨3 - 협업
 
@@ -88,6 +101,12 @@ https://dallog.github.io/
 | 3차  | https://www.youtube.com/watch?v=sP1F-wWO0sY | 리버 & 나인 |
 | 4차  | -                                           | 후디        |
 
+### 스터디 - 알고리즘 스터디
+
+https://github.com/woowacourse-study/2022-lv3-algorithm-study
+
+- 매주 백준 문제를 풀고 상호 리뷰하는 스터디
+
 ## 🖋 글쓰기 미션
 
 | 레벨  | 주제                                   | PR & Reviews                                                      |
@@ -104,6 +123,12 @@ https://dallog.github.io/
 - 톰캣 구현하기
 - MVC 프레임워크 구현하기
 - JDBC 라이브러리 구현하기
+
+### 스터디 - CS Plant
+
+https://github.com/woowacourse-study/2022-cs-plant
+
+- 레벨4 미션/실습과 관련된 지식을 공부하고, 모의 기술 면접을 통해 기초 CS 역량을 키우기 위한 스터디
 
 ## 🎤 발표
 
