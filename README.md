@@ -131,7 +131,7 @@ https://github.com/woowacourse-study/2022-lv3-algorithm-study
 | 톰캣 구현하기 Step 1            | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) | [PR-150](https://github.com/woowacourse/jwp-dashboard-http/pull/150) |
 | 톰캣 구현하기 Step 2            | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) | [PR-195](https://github.com/woowacourse/jwp-dashboard-http/pull/195) |
 | 톰캣 구현하기 Step 3, 4         | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) | [PR-258](https://github.com/woowacourse/jwp-dashboard-http/pull/258) |
-| @MVC 프레임워크 구현하기 Step 1 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-168](https://github.com/woowacourse/jwp-dashboard-mvc/pull/163)  |
+| @MVC 프레임워크 구현하기 Step 1 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-163](https://github.com/woowacourse/jwp-dashboard-mvc/pull/163)  |
 | @MVC 프레임워크 구현하기 Step 2 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-256](https://github.com/woowacourse/jwp-dashboard-mvc/pull/256)  |
 | @MVC 프레임워크 구현하기 Step 3 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-297](https://github.com/woowacourse/jwp-dashboard-mvc/pull/297)  |
 
