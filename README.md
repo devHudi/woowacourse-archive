@@ -99,7 +99,7 @@ https://dallog.github.io/
 | 1차  | https://www.youtube.com/watch?v=CpEPET2jXO4 | 파랑 & 나인 |
 | 2차  | https://www.youtube.com/watch?v=ngafnm7K7O0 | 매트 & 티거 |
 | 3차  | https://www.youtube.com/watch?v=sP1F-wWO0sY | 리버 & 나인 |
-| 4차  | -                                           | 후디        |
+| 4차  | https://www.youtube.com/watch?v=29Q7xo68kk0 | 후디        |
 
 ### 스터디 - 알고리즘 스터디
 
@@ -124,6 +124,17 @@ https://github.com/woowacourse-study/2022-lv3-algorithm-study
 - MVC 프레임워크 구현하기
 - JDBC 라이브러리 구현하기
 
+### 미션 기록
+
+| 미션                            | 레포지토리                                                              | PR & Reviews                                                         |
+| ------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 톰캣 구현하기 Step 1            | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) | [PR-150](https://github.com/woowacourse/jwp-dashboard-http/pull/150) |
+| 톰캣 구현하기 Step 2            | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) | [PR-195](https://github.com/woowacourse/jwp-dashboard-http/pull/195) |
+| 톰캣 구현하기 Step 3, 4         | [jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) | [PR-258](https://github.com/woowacourse/jwp-dashboard-http/pull/258) |
+| @MVC 프레임워크 구현하기 Step 1 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-168](https://github.com/woowacourse/jwp-dashboard-mvc/pull/163)  |
+| @MVC 프레임워크 구현하기 Step 2 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-256](https://github.com/woowacourse/jwp-dashboard-mvc/pull/256)  |
+| @MVC 프레임워크 구현하기 Step 3 | [jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)   | [PR-297](https://github.com/woowacourse/jwp-dashboard-mvc/pull/297)  |
+
 ### 스터디 - CS Plant
 
 https://github.com/woowacourse-study/2022-cs-plant
@@ -132,11 +143,9 @@ https://github.com/woowacourse-study/2022-cs-plant
 
 ## 🎤 발표
 
-### 테코톡
-
-[![](https://user-images.githubusercontent.com/11745691/186069220-7cdf1785-7751-4a22-976f-5aade878a6c3.png)](https://youtu.be/BotXDfBPvDA?t=592)
-
-[[10분 테코톡] 토닉, 후디의 인증과 인가 - 부족사회부터 소셜로그인까지](https://youtu.be/BotXDfBPvDA?t=592)
+| [![](https://user-images.githubusercontent.com/11745691/186069220-7cdf1785-7751-4a22-976f-5aade878a6c3.png)](https://youtu.be/BotXDfBPvDA?t=592) | [![](https://user-images.githubusercontent.com/11745691/192437357-e9c00214-3edd-4a98-b22c-de5f6e4442cb.PNG)](https://www.youtube.com/watch?v=29Q7xo68kk0) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[10분 테코톡] 토닉, 후디의 인증과 인가 - 부족사회부터 소셜로그인까지](https://youtu.be/BotXDfBPvDA?t=592)               | [[프로젝트 4차 데모] 달록 - 달력이 기록을 공유할 때](https://www.youtube.com/watch?v=29Q7xo68kk0)                                                         |
 
 ## 🖋 블로깅
 
@@ -253,3 +262,7 @@ https://github.com/woowacourse-study/2022-cs-plant
 | 107  | [이유와 솔루션으로 정리하는 객체지향 생활체조 원칙](https://hudi.blog/thoughtworks-anthology-object-calisthenics/)                                              | `클린코드`, `객체지향`                           |
 | 108  | [데이터베이스 인덱스 (1) - 인덱스와 인덱싱 알고리즘 (hash table, b-tree, b+tree)](https://hudi.blog/db-index-and-indexing-algorithms/)                          | `데이터베이스`                                   |
 | 109  | [데이터베이스 인덱스 (2) - 클러스터형 인덱스와 비클러스터형 인덱스](https://hudi.blog/db-clustered-and-non-clustered-index/)                                    | `데이터베이스`                                   |
+| 110  | [서블릿과 서블릿 컨테이너](https://hudi.blog/servlet-and-servlet-container/)                                                                                    | `java`, `servlet`                                |
+| 111  | [자바 리플렉션 (Reflection) 기초](https://hudi.blog/java-reflection/)                                                                                           | `java`                                           |
+| 112  | [톰캣 튜닝을 위한 달록의 서버 성능 테스트 준비 과정](https://hudi.blog/dallog-preparing-for-performance-test/)                                                  | `부하테스트`, `JMeter`, `달록`                   |
+| 113  | [데이터베이스의 확장성과 가용성을 위한 MySQL Replication](https://hudi.blog/mysql-replication/)                                                                 | `데이터베이스`, `MySQL`, `데브옵스`              |
